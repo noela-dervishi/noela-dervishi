@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**noela-dervishi/noela-dervishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Noela Dervishi, a Data Scientist, AI & Software Engineer currently pursuing an MSc in Computer Engineering & Big Data. I specialize in building data-driven and AI-powered solutions mostly using Python, SQL, and R, with experience spanning freelance consulting, startups, and enterprise environments. My work combines data science, software engineering, and product thinking to deliver scalable, real-world solutions across industries.
 
-Here are some ideas to get you started:
+> *Always learning. Always building. Always improving.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=noela-dervishi&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&icon_color=bb86fc&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noela-dervishi&layout=compact&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
