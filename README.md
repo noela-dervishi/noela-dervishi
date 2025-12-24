@@ -7,11 +7,9 @@ I’m Noela Dervishi, a Data Scientist, AI & Software Engineer currently pursuin
 <table>
   <tr>
     <td>
-      <!-- GitHub Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=noela-dervishi&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&icon_color=bb86fc&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <!-- Top Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noela-dervishi&layout=compact&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
