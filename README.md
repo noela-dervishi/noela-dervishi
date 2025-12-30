@@ -2,7 +2,7 @@
 
 **Data Scientist | AI Engineer | Full-Stack Developer**  
 
-I specialize in building AI-powered systems, data-driven applications**, and scalable software solutions.  
+I specialize in building AI-powered systems, data-driven applications, and scalable software solutions.  
 My background spans machine learning, large language models, data engineering, and full-stack development, with experience across fintech, enterprise systems, and AI consulting.
 
 I enjoy turning complex data into intelligent products and continuously exploring new technologies in AI and software engineering.
